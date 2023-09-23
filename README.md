@@ -8,5 +8,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - 💥 React
 - 🛡️ TypeScript
 - 🪟: Tailwind CSS
-- 🎁: Blueprint
+- 🪝: React-Hook-Form + Zod
 - 🖇️: Prettier & ESLint
+- 🎁: Blueprint
